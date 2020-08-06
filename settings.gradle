@@ -1,0 +1,3 @@
+include ':grape-client'
+include ':app'
+rootProject.name = "Grape Android"
